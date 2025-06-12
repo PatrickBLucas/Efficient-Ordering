@@ -1,0 +1,1 @@
+This is my first *major* Google Action Script project.  This allows a user to download an XLSX file from our database, prunes out columns that aren't needed, adds columns to incorporate vendor data including their item numbers, full box quantity, etc.  It then tabulates how much to order based on our sales history.
